@@ -34,6 +34,8 @@ public class ZooplaLogin {
 		
 //		driver.getTitle()
 		
+		
+		
 		System.out.println(driver.getTitle());
 		
 		
